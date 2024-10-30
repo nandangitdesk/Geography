@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-family: "Urbanist", sans-serif;
+}
+
+.section-about {
+  padding: 2rem 1rem; /* Extra padding for smaller devices */
+}
+
+.gradient-cards {
+  margin-top: 2rem;
+}
